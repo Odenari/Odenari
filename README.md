@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Anton and I am a Freelancer 🙂
+## Hi there 👋 My name is --Anton-- and I am a Freelancer 🙂
 
 - 🧮 I’m currently working on translations based marketplace App
 - 💠 I’m currently learning TON and overall blockchain environment
