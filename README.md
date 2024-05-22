@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Anton, and I am a Freelancer 🙂
+### Hi there 👋 My name is Anton, and I am a Freelancer 🙂
 
 My current stack mostly includes web tech.
 
