@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 You will not find anything interesting there
 
