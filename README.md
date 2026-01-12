@@ -10,7 +10,7 @@ But how to enable bitbake lsp without autocommand? Or how to break free from imp
 
 One day I've bought Linux Book (900+ pages) and now I can't move my bearings.
 
-Also I've installed Arch Linux manually to find out that there a zero-config, sane-default, free and open source, non-opianted, battery-included, feature-reach, user friendly - _Omarchy Linux_ :D
+Also I've installed Arch Linux manually to find out that there a zero-config, sane-default, free and open source, non-opianted, battery-included, feature-reach, user friendly - _Fedora Linux_ :D
 
 ### In my spare time I:
 - Enjoying mesmerizing nature
